@@ -1,5 +1,9 @@
 Changes to this project are made in two halves.
 
+How To Install A Build:
+1. Go to the google drive and get it from the builds folder.
+2. See 'How to Pull Changes' to pull any incoming changes.
+
 How To Push Changes:
 
 0. Make sure your changes work and don't break the build.
