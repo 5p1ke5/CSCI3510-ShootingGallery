@@ -13,6 +13,7 @@ How to Pull Changes:
 1. Check the github and see what changes require packages.
 2. Get the packages referred to in the commit messages off of the drive and import them.
 3. `git pull` to update Scenes, Prefabs, and Scripts.
+4. Run `git merge` if prompted.
 
 Creating a new Build:
 This is for having a coherent baseline. New builds will be created periodically.
