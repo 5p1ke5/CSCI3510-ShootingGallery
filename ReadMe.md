@@ -1,6 +1,7 @@
 Changes to this project are made in two halves.
 
 How To Push Changes:
+
 0. Make sure your changes work and don't break the build.
 1. Create a package containing all changed assets -NOT- in 'Repo' or 'Imports'. Give this package a descriptive name. The reccommended format is "DescriptiveTitle_DATE_MILITARYTIME" (eg its 10/22/2023 and 7 PM here so I might make a package titled "DoubleJump_10222023_1900". 
 2. Upload this package to the drive.
@@ -8,6 +9,7 @@ How To Push Changes:
 4. `git push`
 
 How to Pull Changes:
+
 1. Use `git log` to see a list of changes.
 2. Get the packages off of the drive and import them.
 3. `git pull -u` to update Scenes, Prefabs, and Scripts.
