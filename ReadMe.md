@@ -16,7 +16,7 @@ How To Push Changes:
 How to Pull Changes:
 
 1. Check the github and see what changes require packages.
-2. Get the packages referred to in the commit messages off of the drive and import them.
+2. Get all packages up to current date from the 'Packages' folder on Drive.
 3. `git pull` to update Scenes, Prefabs, and Scripts.
 4. Run `git merge` if prompted.
 
