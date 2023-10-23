@@ -10,7 +10,7 @@ How To Push Changes:
 
 How to Pull Changes:
 
-1. Use `git log` to see a list of changes.
+1. Check the github and see what changes require packages.
 2. Get the packages referred to in the commit messages off of the drive and import them.
 3. `git pull` to update Scenes, Prefabs, and Scripts.
 
