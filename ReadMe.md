@@ -24,5 +24,5 @@ Creating a new Build:
 This is for having a coherent baseline. New builds will be created periodically.
 1. Make sure the project is up to date and works with all changes.
 2. Zip the entire unity file structure.
-3. Title this "ProjectName_DATE_MILITARYTIME"
+3. Title this "DATE_MILITARYTIME_ProjectName"
 4. Upload to the Builds folder in the google drive.
